@@ -1,3 +1,3 @@
 # AI-for-Text-Mining
-Made an AI using Python.
-This code initializes a RoBERTa model and trains it on a training set, evaluating it on the validation set. A dataset was obtained from Huggingface with different tweets about books, movies and sports and the AI categorized the different tweets in these classes based on the training it received.
+Trained an NLP (natural language processor) in Python for text mining.
+This code initializes a RoBERTa model and trains it on a training set, evaluating it on the validation set. Datasets were obtained from Huggingface and Kaggle with different tweets about books, movies, and sports and the trained NLP AI categorized the different tweets in these classes based on the training it received.
